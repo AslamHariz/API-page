@@ -341,7 +341,7 @@ header div:last-child {
     margin-bottom: 20px;
   }
 
-  nav {
+  a.nav-item {
     display: none;
   }
 
